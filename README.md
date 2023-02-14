@@ -66,13 +66,11 @@ Destaco por mi empatía, trabajo en equipo y adaptabilidad.
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-Email: martinmiltong@gmail.com  
 
 
 </td><td valign="top" width="50%">
 
+Email: martinmiltong@gmail.com  
 
 
 </td></tr></table>  
