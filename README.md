@@ -4,7 +4,7 @@
 Bienvenido a mi GitHub!  
   
 
-Soy Desarrollador Web Full Stack y estudiante avanzado de Analista en Sistemas, actualmente me encuentro en la etapa final de la misma, en donde estoy desarrollando un proyecto web para una empresa distribuidora. 
+Soy Desarrollador Web Full Stack y estudiante avanzado de Analista en Sistemas, actualmente me encuentro en la etapa final de la misma.
 Además, tengo experiencia como Técnico en reparación de PC y como instructor de programación en el curso introductorio del Bootcamp Full Stack de SoyHenry.
 
 Estoy comprometido en crecer tanto profesional como personalmente, con el objetivo de aportar gran valor a la organización o empresa que esté involucrado.
