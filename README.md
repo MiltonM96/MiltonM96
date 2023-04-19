@@ -79,7 +79,7 @@ Email: martinmiltong@gmail.com
 
 
 ## Github Stats  
-[![GitHub Streak]([https://streak-stats.demolab.com/?user=MiltonM96)](https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=MiltonM96&theme=cobalt2&border_radius=50.1&locale=es))
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MiltonM96&theme=dark)](https://git.io/streak-stats)
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MiltonM96&show_icons=true&count_private=true&hide_border=true" align="center" />
 
