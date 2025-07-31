@@ -1,14 +1,13 @@
 # Hola! Mi nombre es Milton Martin! 🖐️  
   
-
 Bienvenido a mi GitHub!  
-  
 
-Soy Desarrollador Web Full Stack y estudiante avanzado de Analista en Sistemas, actualmente me encuentro en la etapa final de la misma.
-Además, tengo experiencia como Técnico en reparación de PC y como instructor de programación en el curso introductorio del Bootcamp Full Stack de SoyHenry.
+¡Hola! Soy Analista en Sistemas y Desarrollador Web Full Stack, Además, tengo experiencia como Técnico en reparación de PC y como instructor de programación en el curso introductorio del Bootcamp Full Stack de SoyHenry.
 
-Estoy comprometido en crecer tanto profesional como personalmente, con el objetivo de aportar gran valor a la organización o empresa que esté involucrado.
-Destaco por mi empatía, trabajo en equipo y adaptabilidad.  
+Mis habilidades técnicas incluyen Javascript, TypeScript, HTML, CSS, React, Redux, Node.js, PHP, bases de datos tanto SQL como No SQL, GIT y metodologías Scrum y Kanban.
+
+Me considero una persona comprometida con mi crecimiento profesional y personal, siempre buscando nuevas oportunidades y desafíos para mejorar mis habilidades y aportar un gran valor a cualquier organización o empresa en la que esté involucrado. Estoy listo para enfrentar nuevos retos y dar lo mejor de mí para alcanzar los objetivos de la empresa.
+Destaco por mi empatía, trabajo en equipo y adaptabilidad.
   
 
 <br/>  
